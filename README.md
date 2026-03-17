@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there👋, My name is Crumpet!
 
-<!--
-**Crumpet-Sniffer/Crumpet-Sniffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My main focus at the moment are my A-Levels and Studying for my CompTIA A+. I just use coding as a hobby project I've been into since I did GCSE Computer Science
 
-Here are some ideas to get you started:
+I’m currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alloy VPN Client
+
+Alloy is a piece of python based VPN manager that combines multiple VPN GUIs into one easy to manage and read GUI. It's still in beta at the moment. There's a CLI verstion up at https://github.com/Crumpet-Sniffer/Alloy-VPN-Client once I've got my head around tkinter I'll add a GUI.
+<br><br>
+I’m currently learning:
+
+Python (Looking into tkinter specifically)
+
+HTML (I know, it's not a programing language)
+
+Locally Hosting AI Models
+
+<br><br>
+You can reach me on Discord @crumpet_sniffer
